@@ -1,9 +1,15 @@
 ## Online Bookstore Database Documentation
 
+![](./Bookstore%20Database%20Cover.png)
+
 ### Introduction
 The Online Bookstore Database is designed to manage information related to books, authors, customers, orders, and reviews for an online bookstore. This documentation outlines the database schema, constraints, and provides sample SQL queries to perform various tasks.
 
 ### Database Schema
+![The All About Online Bookstore Database ERD](Database%20ERD.png)
+
+
+
 The database consists of the following tables:
 
 **1. Books:**
